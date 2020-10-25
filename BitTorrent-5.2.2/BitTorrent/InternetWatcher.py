@@ -1,5 +1,5 @@
 # by Greg Hazel
-
+Import class
 import random
 from twisted.internet import task
 from BTL.obsoletepythonsupport import set
